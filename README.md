@@ -10,6 +10,7 @@ A curated list of free online file conversion and processing tools. All tools li
 
 ## Image Tools
 
+- [ImgFlow](https://imgflow.taoliapp.com/en/) — Browser-based PNG/JPG/HEIC/WebP/AVIF compressor and converter; core processing stays on-device
 - [SetDPI](https://setdpi.com) — Change image DPI without quality loss
 - [Squoosh](https://squoosh.app) — Image compression by Google
 - [TinyPNG](https://tinypng.com) — Smart PNG and JPEG compression
